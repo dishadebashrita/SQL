@@ -53,3 +53,5 @@ Employee performance based on number of transactions.
 Book availability across all branches.
 
 Average return time by genre or member.
+
+refer:- "https://github.com/dishadebashrita/sql-projects-hub/blob/main/Library%20Management/Analyzing%20Book%20Issuance%20Trends%20in%20the%20Library.sql"
